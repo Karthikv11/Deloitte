@@ -1,0 +1,7 @@
+print ("HELLO WORD")
+int n
+cin>>n
+i=0
+c=1
+for i in range n
+ c++
